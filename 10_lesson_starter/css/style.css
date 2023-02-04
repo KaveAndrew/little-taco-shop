@@ -17,3 +17,19 @@ th, td, caption {
     border-collapse: separate;
     padding: 0.5rem;
 }
+
+label, input, button {
+    font-size: 22px;
+}
+
+fieldset {
+    border: 1px solid #464545;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
+
+textarea {
+    font-size: 22px;
+    max-width: 750px;
+}
